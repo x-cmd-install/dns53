@@ -7,7 +7,7 @@ about:
   head: cd7cede
   archived: false
   latestVersion: v0.11.0
-  collectedAt: 2026-09-04T19:27:20Z
+  collectedAt: 2026-09-04T21:04:10Z
 timeline:
   created: 2022-06-11
   lastCommit: 2024-01-23
@@ -81,5 +81,43 @@ total:
   openIssue: 2
   commit: 363
 ---
+path: /home/runner/.x-repo/github.com/purpleclay/dns53
+collectedAt: 2026-09-04T21:04:11Z
+loc:
+  Go:
+    code: 2473
+    comments: 837
+    blanks: 609
+    files: 32
+  Yaml:
+    code: 189
+    comments: 58
+    blanks: 18
+    files: 3
+  Sh:
+    code: 180
+    comments: 88
+    blanks: 33
+    files: 4
+  Css:
+    code: 32
+    comments: 0
+    blanks: 7
+    files: 1
+  Html:
+    code: 21
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 491
+    blanks: 205
+    files: 17
+total:
+  code: 2928
+  comments: 1474
+  blanks: 874
+  files: 58
 ---
 
