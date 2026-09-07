@@ -5,7 +5,7 @@ about:
   head: cd7cede
   archived: false
   latestVersion: "v0.11.0"
-  collectedAt: 2026-09-07T05:03:11Z
+  collectedAt: 2026-09-07T19:28:21Z
 timeline:
   created: 2022-06-11
   lastCommit: 2024-01-23
@@ -80,7 +80,7 @@ total:
   commit: 363
 ---
 path: /home/runner/.x-repo/github.com/purpleclay/dns53
-collectedAt: 2026-09-07T05:03:14Z
+collectedAt: 2026-09-07T19:28:22Z
 loc:
   Go:
     code: 2473
@@ -121,7 +121,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:18+00:00
+  collectedAt: 2026-09-07T19:28:23+00:00
   platform:
     darwin/arm64:
       name:  dns53_0.11.0_darwin-arm64.tar.gz
