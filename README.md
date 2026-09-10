@@ -12,6 +12,18 @@ Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately
 x install dns53
 ```
 
+## Code insight
+
+Total: **2,895** lines of code across **41** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,473 | 837 | 609 | 32 |
+| Yaml | 189 | 58 | 18 | 3 |
+| Sh | 180 | 88 | 33 | 4 |
+| Css | 32 | 0 | 7 | 1 |
+| Html | 21 | 0 | 2 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/purpleclay/dns53>
@@ -23,6 +35,25 @@ x install dns53
 - **Latest**: `v0.11.0` (2023-11-13)
 - **Last commit**: 2024-01-23
 - **Assets in release**: 35
+
+## Popularity
+
+- **Stars**: 50 · **Forks**: 0 · **Open issues**: 24 · **Contributors**: 1
+
+## Totals (cumulative)
+
+- **Releases**: 16 · **Merged PRs**: 328 · **Open PRs**: 10 · **Closed issues**: 22 · **Open issues**: 2 · **Commits**: 363
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -64,34 +95,6 @@ x install dns53
 | [dns53_0.11.0_x86.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_x86.apk) | 7.7 MiB | `other` |
 | [dns53_0.11.0_x86_64.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_x86_64.apk) | 8.9 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 50 · **Forks**: 0 · **Open issues**: 24 · **Contributors**: 1
-
-## Totals (cumulative)
-
-- **Releases**: 16 · **Merged PRs**: 328 · **Open PRs**: 10 · **Closed issues**: 22 · **Open issues**: 2 · **Commits**: 363
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **2,895** lines of code across **41** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,473 | 837 | 609 | 32 |
-| Yaml | 189 | 58 | 18 | 3 |
-| Sh | 180 | 88 | 33 | 4 |
-| Css | 32 | 0 | 7 | 1 |
-| Html | 21 | 0 | 2 | 1 |
-
 ## Improve this data
 
 Install metadata for dns53 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dns53` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +104,4 @@ Install metadata for dns53 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:19Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:42:10Z._
