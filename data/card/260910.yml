@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.11.0"
   latestRelease: "v0.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:00:12Z
+  collectedAt: 2026-09-10T21:42:02Z
 timeline:
   created: 2022-06-11
   lastCommit: 2024-01-23
@@ -84,7 +84,7 @@ total:
   commit: 363
 ---
 path: /home/runner/.x-repo/github.com/purpleclay/dns53
-collectedAt: 2026-09-10T17:00:15Z
+collectedAt: 2026-09-10T21:42:03Z
 loc:
   Go:
     code: 2473
