@@ -4,7 +4,7 @@
 
 Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately
 
-![dns53](https://repo.x-cmd.io/dns53.svg)
+![dns53](https://repo.x-cmd.io/dns53.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,46 @@ x install dns53
 - **最新版本**: `v0.11.0` (2023-11-13)
 - **最近提交**: 2024-01-23
 - **Release 含资产**: 35 个
-- **发布时间**: 2023-11-13T05:47:08Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/purpleclay/dns53/releases/download/v0.11.0/checksums.txt) | 3.0 KiB | `other` |
+| [checksums.txt.pem](https://github.com/purpleclay/dns53/releases/download/v0.11.0/checksums.txt.pem) | 3.1 KiB | `other` |
+| [checksums.txt.sig](https://github.com/purpleclay/dns53/releases/download/v0.11.0/checksums.txt.sig) | 96 B | `other` |
+| [dns53-0.11.0-1.aarch64.rpm](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53-0.11.0-1.aarch64.rpm) | 8.0 MiB | `runtime/rpm/aarch64` |
+| [dns53-0.11.0-1.armv7hl.rpm](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53-0.11.0-1.armv7hl.rpm) | 7.7 MiB | `runtime/rpm/armv7hl` |
+| [dns53-0.11.0-1.i386.rpm](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53-0.11.0-1.i386.rpm) | 7.7 MiB | `other` |
+| [dns53-0.11.0-1.x86_64.rpm](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53-0.11.0-1.x86_64.rpm) | 8.9 MiB | `runtime/rpm/x86_64` |
+| [dns53_0.11.0_aarch64.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_aarch64.apk) | 8.0 MiB | `other` |
+| [dns53_0.11.0_amd64.deb](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_amd64.deb) | 8.5 MiB | `runtime/deb/amd64` |
+| [dns53_0.11.0_arm64.deb](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_arm64.deb) | 7.7 MiB | `runtime/deb/arm64` |
+| [dns53_0.11.0_armhf.deb](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_armhf.deb) | 7.4 MiB | `runtime/deb/armhf` |
+| [dns53_0.11.0_armv7.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_armv7.apk) | 7.7 MiB | `other` |
+| [dns53_0.11.0_darwin-arm64.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-arm64.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
+| [dns53_0.11.0_darwin-arm64.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-arm64.tar.gz.sbom) | 62.7 KiB | `native/darwin/arm64` |
+| [dns53_0.11.0_darwin-x86_64.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-x86_64.tar.gz) | 8.8 MiB | `native/darwin/x64` |
+| [dns53_0.11.0_darwin-x86_64.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-x86_64.tar.gz.sbom) | 62.7 KiB | `native/darwin/x64` |
+| [dns53_0.11.0_i386.deb](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_i386.deb) | 7.3 MiB | `runtime/deb/i386` |
+| [dns53_0.11.0_linux-386.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-386.tar.gz) | 7.3 MiB | `native/unknown` |
+| [dns53_0.11.0_linux-386.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-386.tar.gz.sbom) | 62.7 KiB | `other` |
+| [dns53_0.11.0_linux-arm64.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-arm64.tar.gz) | 7.6 MiB | `native/linux/arm64` |
+| [dns53_0.11.0_linux-arm64.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-arm64.tar.gz.sbom) | 62.7 KiB | `native/linux/arm64` |
+| [dns53_0.11.0_linux-armv7.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-armv7.tar.gz) | 7.3 MiB | `native/linux/arm` |
+| [dns53_0.11.0_linux-armv7.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-armv7.tar.gz.sbom) | 62.7 KiB | `native/linux/arm` |
+| [dns53_0.11.0_linux-x86_64.tar.gz](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-x86_64.tar.gz) | 8.4 MiB | `native/linux/x64` |
+| [dns53_0.11.0_linux-x86_64.tar.gz.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-x86_64.tar.gz.sbom) | 62.7 KiB | `native/linux/x64` |
+| [dns53_0.11.0_windows-386.zip](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-386.zip) | 7.8 MiB | `native/win/x64` |
+| [dns53_0.11.0_windows-386.zip.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-386.zip.sbom) | 65.4 KiB | `native/win/x64` |
+| [dns53_0.11.0_windows-arm64.zip](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-arm64.zip) | 7.7 MiB | `native/win/arm64` |
+| [dns53_0.11.0_windows-arm64.zip.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-arm64.zip.sbom) | 65.4 KiB | `native/win/arm64` |
+| [dns53_0.11.0_windows-armv7.zip](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-armv7.zip) | 7.5 MiB | `native/win/x64` |
+| [dns53_0.11.0_windows-armv7.zip.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-armv7.zip.sbom) | 65.4 KiB | `native/win/x64` |
+| [dns53_0.11.0_windows-x86_64.zip](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-x86_64.zip) | 8.6 MiB | `native/win/x64` |
+| [dns53_0.11.0_windows-x86_64.zip.sbom](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_windows-x86_64.zip.sbom) | 65.4 KiB | `native/win/x64` |
+| [dns53_0.11.0_x86.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_x86.apk) | 7.7 MiB | `other` |
+| [dns53_0.11.0_x86_64.apk](https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_x86_64.apk) | 8.9 MiB | `other` |
 
 ## 流行度
 
@@ -62,4 +101,4 @@ dns53 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:07:53Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:20Z._
