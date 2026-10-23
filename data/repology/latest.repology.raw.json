@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"dns53-bin","binname":"dns53-bin","visiblename":"dns53-bin","version":"0.11.0","origversion":"0.11.0-1","status":"unique","summary":"Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately","maintainers":["purpleclay@aur"],"licenses":["MIT"]}]
