@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3084,
       "digest": null,
-      "download_count": 57,
+      "download_count": 70,
       "created_at": "2023-11-13T05:47:19Z",
       "updated_at": "2023-11-13T05:47:20Z",
       "browser_download_url": "https://github.com/purpleclay/dns53/releases/download/v0.11.0/checksums.txt"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8899157,
       "digest": null,
-      "download_count": 39,
+      "download_count": 42,
       "created_at": "2023-11-13T05:47:11Z",
       "updated_at": "2023-11-13T05:47:12Z",
       "browser_download_url": "https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 9221217,
       "digest": null,
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2023-11-13T05:47:12Z",
       "updated_at": "2023-11-13T05:47:12Z",
       "browser_download_url": "https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_darwin-x86_64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 8011515,
       "digest": null,
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2023-11-13T05:47:10Z",
       "updated_at": "2023-11-13T05:47:11Z",
       "browser_download_url": "https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-arm64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 8834504,
       "digest": null,
-      "download_count": 665,
+      "download_count": 672,
       "created_at": "2023-11-13T05:47:10Z",
       "updated_at": "2023-11-13T05:47:11Z",
       "browser_download_url": "https://github.com/purpleclay/dns53/releases/download/v0.11.0/dns53_0.11.0_linux-x86_64.tar.gz"
